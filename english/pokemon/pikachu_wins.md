@@ -12,3 +12,5 @@ realize that Pikachu isn't real but the marshmallow nightmare is still a problem
 [Turn on the tunes] (../invite-friends/mosh_pit/mosh_pit.md)
 
 [Write a hit song](../hit-song/hit-song.md)
+
+[Look for Pikachu](../look-for-pikachu/look-for-pikachu.md)
